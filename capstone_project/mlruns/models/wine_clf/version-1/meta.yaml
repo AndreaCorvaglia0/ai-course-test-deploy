@@ -1,0 +1,16 @@
+creation_timestamp: 1791442429763
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1791442429763
+model_id: m-9f178075a77242ad8d64d8a89668e89a
+name: wine_clf
+run_id: a8e77ea133434cf0b4f23d977a242679
+run_link: null
+source: models:/m-9f178075a77242ad8d64d8a89668e89a
+status: READY
+status_message: null
+storage_location: file:///Users/andreacorvaglia/Library/Mobile Documents/com~apple~CloudDocs/Corsi/playground/ai-course-test-deploy/capstone_project/mlruns/597541230112617152/models/m-9f178075a77242ad8d64d8a89668e89a/artifacts
+user_id: null
+version: 1
+workspace: default

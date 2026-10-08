@@ -1,0 +1,9 @@
+artifact_location: file:///Users/andreacorvaglia/Library/Mobile Documents/com~apple~CloudDocs/Corsi/playground/ai-course-test-deploy/capstone_project/mlruns/597541230112617152
+creation_time: 1791442426956
+effective_trace_archival_retention: null
+experiment_id: '597541230112617152'
+last_update_time: 1791442426956
+lifecycle_stage: active
+name: wine_quality_capstone
+trace_location: null
+workspace: default
